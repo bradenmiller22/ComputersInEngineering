@@ -43,7 +43,6 @@ ComputersInEngineering/
 
 - C++ compiler (e.g., GCC, Clang, MSVC)
 - CMake (for build configuration)
-- [Optional] Graphics library (e.g., SFML, SDL) if used in the projects
 
 ---
 
